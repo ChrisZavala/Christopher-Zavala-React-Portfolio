@@ -17,7 +17,7 @@ const About = () => {
               <p>Hi. I'm Christopher Zavala. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software full stack applications that improves
+              <p>I am passionate about building excellent software full stack applications that improve
               the lives of those around me. I am thoughtful and extremely diligent about the projects that I create.
               I also have an electrical engineering degree, so I have a vastly diverse technical background. </p>  
             </div>
