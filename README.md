@@ -12,6 +12,7 @@ This is my portfolio created with React. The first attempt at creating a portfol
   - [Features](#features)
   - [How To Contribute](#how-to-contribute)
   - [Author](#author)
+  - [Live Site](#live-site)
   - [Screenshots](#screenshots)
 
   ## Installation 
@@ -70,6 +71,9 @@ SOFTWARE.
   Christopher Zavala:
   
   https://github.com/chriszavala
+
+  ## Live Site
+  [Click to see the live site](https://chriszavala.github.io/UTA-bootcamp-challenge20/)
 
   ## Screenshots:
 ![Alt text](./src/assets/projects/Recording%202023-03-03%20at%2016.56.25.gif)
