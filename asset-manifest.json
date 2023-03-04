@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Christopher-Zavala-Portfolio/static/css/main.ae64b125.css",
-    "main.js": "/Christopher-Zavala-Portfolio/static/js/main.e4e86d9d.js",
-    "static/media/DrinksRUs.png": "/Christopher-Zavala-Portfolio/static/media/DrinksRUs.c3ec38eca4d32fb735f0.png",
-    "static/media/Trailer.jpg": "/Christopher-Zavala-Portfolio/static/media/Trailer.2285fc3234ad22c3b70d.jpg",
-    "static/media/Cineme.jpg": "/Christopher-Zavala-Portfolio/static/media/Cineme.6fc0b20ff39c9068a039.jpg",
-    "static/media/Blog.jpg": "/Christopher-Zavala-Portfolio/static/media/Blog.6fbed8b81b7356c2423c.jpg",
-    "static/media/react.png": "/Christopher-Zavala-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/Christopher-Zavala-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/Christopher-Zavala-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/express.png": "/Christopher-Zavala-Portfolio/static/media/express.8620b8557897185e0ef0.png",
-    "static/media/github.png": "/Christopher-Zavala-Portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/Christopher-Zavala-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/logo.png": "/Christopher-Zavala-Portfolio/static/media/logo.22d049aff792a4c8be08.png",
-    "static/media/css.png": "/Christopher-Zavala-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/Christopher-Zavala-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/Christopher-Zavala-Portfolio/index.html",
-    "main.ae64b125.css.map": "/Christopher-Zavala-Portfolio/static/css/main.ae64b125.css.map",
-    "main.e4e86d9d.js.map": "/Christopher-Zavala-Portfolio/static/js/main.e4e86d9d.js.map"
+    "main.css": "/UTA-bootcamp-challenge20/static/css/main.ae64b125.css",
+    "main.js": "/UTA-bootcamp-challenge20/static/js/main.8a2a363b.js",
+    "static/media/DrinksRUs.png": "/UTA-bootcamp-challenge20/static/media/DrinksRUs.c3ec38eca4d32fb735f0.png",
+    "static/media/Trailer.jpg": "/UTA-bootcamp-challenge20/static/media/Trailer.2285fc3234ad22c3b70d.jpg",
+    "static/media/Cineme.jpg": "/UTA-bootcamp-challenge20/static/media/Cineme.6fc0b20ff39c9068a039.jpg",
+    "static/media/Blog.jpg": "/UTA-bootcamp-challenge20/static/media/Blog.6fbed8b81b7356c2423c.jpg",
+    "static/media/react.png": "/UTA-bootcamp-challenge20/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/UTA-bootcamp-challenge20/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/UTA-bootcamp-challenge20/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/express.png": "/UTA-bootcamp-challenge20/static/media/express.8620b8557897185e0ef0.png",
+    "static/media/github.png": "/UTA-bootcamp-challenge20/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/UTA-bootcamp-challenge20/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/logo.png": "/UTA-bootcamp-challenge20/static/media/logo.22d049aff792a4c8be08.png",
+    "static/media/css.png": "/UTA-bootcamp-challenge20/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/UTA-bootcamp-challenge20/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/UTA-bootcamp-challenge20/index.html",
+    "main.ae64b125.css.map": "/UTA-bootcamp-challenge20/static/css/main.ae64b125.css.map",
+    "main.8a2a363b.js.map": "/UTA-bootcamp-challenge20/static/js/main.8a2a363b.js.map"
   },
   "entrypoints": [
     "static/css/main.ae64b125.css",
-    "static/js/main.e4e86d9d.js"
+    "static/js/main.8a2a363b.js"
   ]
 }
