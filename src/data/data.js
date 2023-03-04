@@ -6,7 +6,7 @@ import ProjIm4 from '../assets/projects/Trailer.jpg';
 export const data=[
     {
         id:1,
-        name:"Drinks R Us - HTML/CSS/JS",
+        name:"Drinks R Us  HTML/CSS/JS",
         image:ProjIm3,
         github:"https://github.com/Re-Gi/Project1-CocktailSearch",
         live:"https://re-gi.github.io/Project1-CocktailSearch/",
@@ -27,7 +27,7 @@ export const data=[
     },
     {
         id:4,
-        name:"CineMe Trailer - React App",
+        name:"CineMe Trailer React App",
         image:ProjIm4,
         github:"",
         live:"",

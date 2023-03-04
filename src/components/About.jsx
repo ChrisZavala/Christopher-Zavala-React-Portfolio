@@ -14,12 +14,23 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Christopher Zavala. Please take a look around.</p>
+              <p>Christopher Zavala, here. Please take a look around.</p>
             </div>
             <div>
               <p>I am passionate about building excellent software full stack applications that improve
               the lives of those around me. I am thoughtful and extremely diligent about the projects that I create.
-              I also have an electrical engineering degree, so I have a vastly diverse technical background. </p>  
+              I also have an electrical engineering degree, so I have a vastly diverse technical background. I will be graduating from my coding 
+              bootcamp from The University of Texas at Austin, by mid March 2023.
+              </p><br></br> 
+              
+              <p>My goal from this journey is to refine my craft and skill in this coding bootcamp to become a MERN full-stack web developer with the skills 
+              necessary to enjoy my new career but also bring the skills that I have learned through all my life experiences.  
+              I have a Bachelor’s of Science in Electrical Engineering and I also have a love for the engineering process and solving problems.
+              </p><br></br>
+              
+             <p>With this brief introduction that I have told you, I hope to have given you a little understanding about what I like to do and love to create. 
+              I hope you enjoy this site as much as I have enjoyed the process of bringing this site to life! Thank you.
+              </p>  
             </div>
           </div>
           
