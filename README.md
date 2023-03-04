@@ -1,4 +1,4 @@
-## Christopher Zavala React Portfolio
+# Christopher Zavala React Portfolio
 
   ## Description 
 This is my portfolio created with React. The first attempt at creating a portfolio was to strictly doing it in HTML and CSS. This version is purely done in React. 
